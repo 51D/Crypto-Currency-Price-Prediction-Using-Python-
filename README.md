@@ -1,1 +1,1 @@
-# Crypto-Currency-Price-Prediction-Using-Python-
+This repository contains a Python-based machine learning project for predicting cryptocurrency prices. The model leverages historical price data, technical indicators, and various machine learning algorithms to forecast future prices of cryptocurrencies such as Bitcoin, Ethereum, and others.
